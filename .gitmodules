@@ -4,3 +4,6 @@
 [submodule "jmsd_foreign_poco"]
 	path = jmsd_foreign_poco
 	url = https://github.com/jiteman/jmsd_foreign_poco.git
+[submodule "jmsd_foreign_poco_openssl"]
+	path = jmsd_foreign_poco_openssl
+	url = https://github.com/jiteman/jmsd_foreign_poco_openssl.git
