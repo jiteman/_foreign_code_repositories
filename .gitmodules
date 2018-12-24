@@ -1,3 +1,6 @@
 [submodule "jmsd_foreign_eastl"]
 	path = jmsd_foreign_eastl
 	url = https://github.com/jiteman/jmsd_foreign_eastl.git
+[submodule "jmsd_foreign_poco"]
+	path = jmsd_foreign_poco
+	url = https://github.com/jiteman/jmsd_foreign_poco.git
