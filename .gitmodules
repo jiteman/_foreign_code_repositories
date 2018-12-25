@@ -7,3 +7,6 @@
 [submodule "jmsd_foreign_poco_openssl"]
 	path = jmsd_foreign_poco_openssl
 	url = https://github.com/jiteman/jmsd_foreign_poco_openssl.git
+[submodule "jmsd_foreign_cppunitlite"]
+	path = jmsd_foreign_cppunitlite
+	url = https://github.com/jiteman/jmsd_foreign_cppunitlite.git
