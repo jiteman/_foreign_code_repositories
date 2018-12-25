@@ -10,3 +10,6 @@
 [submodule "jmsd_foreign_cppunitlite"]
 	path = jmsd_foreign_cppunitlite
 	url = https://github.com/jiteman/jmsd_foreign_cppunitlite.git
+[submodule "jmsd_foreign_cppunit"]
+	path = jmsd_foreign_cppunit
+	url = https://github.com/jiteman/jmsd_foreign_cppunit.git
