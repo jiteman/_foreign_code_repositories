@@ -19,3 +19,6 @@
 [submodule "jmsd_foreign_cppunit_lite_zeil"]
 	path = jmsd_foreign_cppunit_lite_zeil
 	url = https://github.com/jiteman/jmsd_foreign_cppunit_lite_zeil.git
+[submodule "jmsd_foreign_catch_2"]
+	path = jmsd_foreign_catch_2
+	url = https://github.com/jiteman/jmsd_foreign_catch_2.git
