@@ -16,3 +16,6 @@
 [submodule "jmsd_foreign_googletest"]
 	path = jmsd_foreign_googletest
 	url = https://github.com/jiteman/jmsd_foreign_googletest.git
+[submodule "jmsd_foreign_cppunit_lite_zeil"]
+	path = jmsd_foreign_cppunit_lite_zeil
+	url = https://github.com/jiteman/jmsd_foreign_cppunit_lite_zeil.git
