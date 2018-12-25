@@ -13,3 +13,6 @@
 [submodule "jmsd_foreign_cppunit"]
 	path = jmsd_foreign_cppunit
 	url = https://github.com/jiteman/jmsd_foreign_cppunit.git
+[submodule "jmsd_foreign_googletest"]
+	path = jmsd_foreign_googletest
+	url = https://github.com/jiteman/jmsd_foreign_googletest.git
