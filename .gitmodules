@@ -22,3 +22,6 @@
 [submodule "jmsd_foreign_xunit"]
 	path = jmsd_foreign_xunit
 	url = https://github.com/jiteman/jmsd_foreign_xunit.git
+[submodule "jmsd_foreign_cpputest"]
+	path = jmsd_foreign_cpputest
+	url = https://github.com/jiteman/jmsd_foreign_cpputest.git
