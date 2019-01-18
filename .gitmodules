@@ -34,3 +34,6 @@
 [submodule "jmsd_foreign_fakeit"]
 	path = jmsd_foreign_fakeit
 	url = https://github.com/jiteman/jmsd_foreign_fakeit.git
+[submodule "jmsd_foreign_hippomocks"]
+	path = jmsd_foreign_hippomocks
+	url = https://github.com/jiteman/jmsd_foreign_hippomocks.git
