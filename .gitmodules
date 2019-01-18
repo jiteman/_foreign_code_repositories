@@ -28,3 +28,6 @@
 [submodule "jmsd_foreign_criterion"]
 	path = jmsd_foreign_criterion
 	url = https://github.com/jiteman/jmsd_foreign_criterion.git
+[submodule "jmsd_foreign_cxxtest"]
+	path = jmsd_foreign_cxxtest
+	url = https://github.com/jiteman/jmsd_foreign_cxxtest.git
