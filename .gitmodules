@@ -25,3 +25,6 @@
 [submodule "jmsd_foreign_cpputest"]
 	path = jmsd_foreign_cpputest
 	url = https://github.com/jiteman/jmsd_foreign_cpputest.git
+[submodule "jmsd_foreign_criterion"]
+	path = jmsd_foreign_criterion
+	url = https://github.com/jiteman/jmsd_foreign_criterion.git
