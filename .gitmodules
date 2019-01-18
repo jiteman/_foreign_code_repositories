@@ -31,3 +31,6 @@
 [submodule "jmsd_foreign_cxxtest"]
 	path = jmsd_foreign_cxxtest
 	url = https://github.com/jiteman/jmsd_foreign_cxxtest.git
+[submodule "jmsd_foreign_fakeit"]
+	path = jmsd_foreign_fakeit
+	url = https://github.com/jiteman/jmsd_foreign_fakeit.git
