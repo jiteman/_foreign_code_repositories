@@ -40,3 +40,6 @@
 [submodule "jmsd_foreign_igloo"]
 	path = jmsd_foreign_igloo
 	url = https://github.com/jiteman/jmsd_foreign_igloo.git
+[submodule "jmsd_foreign_mockcpp"]
+	path = jmsd_foreign_mockcpp
+	url = https://github.com/jiteman/jmsd_foreign_mockcpp.git
