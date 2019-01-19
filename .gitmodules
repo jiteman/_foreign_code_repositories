@@ -49,3 +49,6 @@
 [submodule "jmsd_foreign_mockpp"]
 	path = jmsd_foreign_mockpp
 	url = https://github.com/jiteman/jmsd_foreign_mockpp.git
+[submodule "jmsd_foreign_tpunitpp"]
+	path = jmsd_foreign_tpunitpp
+	url = https://github.com/jiteman/jmsd_foreign_tpunitpp.git
