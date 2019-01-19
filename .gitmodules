@@ -37,3 +37,6 @@
 [submodule "jmsd_foreign_hippomocks"]
 	path = jmsd_foreign_hippomocks
 	url = https://github.com/jiteman/jmsd_foreign_hippomocks.git
+[submodule "jmsd_foreign_igloo"]
+	path = jmsd_foreign_igloo
+	url = https://github.com/jiteman/jmsd_foreign_igloo.git
