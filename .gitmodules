@@ -52,3 +52,6 @@
 [submodule "jmsd_foreign_tpunitpp"]
 	path = jmsd_foreign_tpunitpp
 	url = https://github.com/jiteman/jmsd_foreign_tpunitpp.git
+[submodule "jmsd_foreign_trompeloeil"]
+	path = jmsd_foreign_trompeloeil
+	url = https://github.com/jiteman/jmsd_foreign_trompeloeil.git
