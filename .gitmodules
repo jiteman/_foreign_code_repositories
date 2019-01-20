@@ -58,3 +58,6 @@
 [submodule "jmsd_foreign_cute"]
 	path = jmsd_foreign_cute
 	url = https://github.com/jiteman/jmsd_foreign_cute.git
+[submodule "jmsd_foreign_unittest_cpp"]
+	path = jmsd_foreign_unittest_cpp
+	url = https://github.com/jiteman/jmsd_foreign_unittest_cpp.git
