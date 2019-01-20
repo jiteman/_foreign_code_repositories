@@ -55,3 +55,6 @@
 [submodule "jmsd_foreign_trompeloeil"]
 	path = jmsd_foreign_trompeloeil
 	url = https://github.com/jiteman/jmsd_foreign_trompeloeil.git
+[submodule "jmsd_foreign_cute"]
+	path = jmsd_foreign_cute
+	url = https://github.com/jiteman/jmsd_foreign_cute.git
